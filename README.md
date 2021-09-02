@@ -4,8 +4,6 @@
 
 ## DEMO
 
----
-
 ## Development Environment
 
 - Python 3.8.3
@@ -17,8 +15,6 @@
 - Mac OS X (Big Sur)
   
 
----
-
 ## Requirement
 
 - python (3.x)
@@ -29,8 +25,6 @@
   
 - Mac OS X
   
-
----
 
 ## Installation
 
